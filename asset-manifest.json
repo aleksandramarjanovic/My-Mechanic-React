@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aleksandramarjanovic/My-Mechanic-React.git/static/css/main.04636529.chunk.css",
+    "main.js": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/main.2fd1f8e0.chunk.js",
+    "main.js.map": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/main.2fd1f8e0.chunk.js.map",
+    "runtime-main.js": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/runtime-main.3d9adc47.js",
+    "runtime-main.js.map": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/runtime-main.3d9adc47.js.map",
+    "static/css/2.4096cf77.chunk.css": "/aleksandramarjanovic/My-Mechanic-React.git/static/css/2.4096cf77.chunk.css",
+    "static/js/2.9e057d77.chunk.js": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/2.9e057d77.chunk.js",
+    "static/js/2.9e057d77.chunk.js.map": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/2.9e057d77.chunk.js.map",
+    "static/js/3.b087df2f.chunk.js": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/3.b087df2f.chunk.js",
+    "static/js/3.b087df2f.chunk.js.map": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/3.b087df2f.chunk.js.map",
+    "index.html": "/aleksandramarjanovic/My-Mechanic-React.git/index.html",
+    "static/css/2.4096cf77.chunk.css.map": "/aleksandramarjanovic/My-Mechanic-React.git/static/css/2.4096cf77.chunk.css.map",
+    "static/css/main.04636529.chunk.css.map": "/aleksandramarjanovic/My-Mechanic-React.git/static/css/main.04636529.chunk.css.map",
+    "static/js/2.9e057d77.chunk.js.LICENSE.txt": "/aleksandramarjanovic/My-Mechanic-React.git/static/js/2.9e057d77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9adc47.js",
+    "static/css/2.4096cf77.chunk.css",
+    "static/js/2.9e057d77.chunk.js",
+    "static/css/main.04636529.chunk.css",
+    "static/js/main.2fd1f8e0.chunk.js"
+  ]
+}
